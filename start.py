@@ -1,0 +1,36 @@
+item="fried rice"
+price=40
+rating=4.5
+is_veg=True
+#print(type(item))
+#print(type(rating))
+#print(type(item))
+#print(type(is_veg))
+menu=["dosa","idle","samosa"]
+print(type(menu))
+#print(item)
+#print(menu[1])
+#print(menu[2])
+#print(menu[1])
+#menu.append("vada")
+#menu[1]="puri"
+#menu[2]="biriyani"
+#print(menu)
+#menu.remove("dosa")
+#print(menu)
+#print(price)
+#print(item,"cost=",price) 
+#working_days=("monday","tuesday","wednesday","thursday","friday")
+#working_days[0]="sunday"
+#print(working_days[2])
+price={
+    "dosa":40,
+    "idli":30,
+    "samosa":15
+}
+#price["vada"]=25
+#price["idli"]=35
+#price.pop("samosa")
+print(price)
+#print(price["dosa"])
+#print(price["samosa"])
